@@ -8,7 +8,7 @@ import cucumber.api.Scenario;
 
 /**
  * @author Dell
- *
+ * This class has all the Web element methods with wait mechanism applied with exception handling mechanism
  */
 public class ElementActions {
 
