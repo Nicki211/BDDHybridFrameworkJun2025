@@ -26,23 +26,17 @@ public class WaitMethods {
 
 	/**
 	 * 
-	 * @param This method will help to Wait for Specified time (Static wait)
+	 * @param milisec 
 	 *
 	 */
 	public void staticWait(long milisec) {
 
 		try {
-
 			Thread.sleep(milisec);
-
 		} catch (InterruptedException e) {
-
 			// TODO Auto-generated catch block
-
 			e.printStackTrace();
-
 		}
-
 	}
 	/**
 	 * 
