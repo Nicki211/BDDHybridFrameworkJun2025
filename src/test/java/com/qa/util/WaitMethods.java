@@ -29,7 +29,7 @@ public class WaitMethods {
 	 * @param milisec 
 	 *
 	 */
-	public void staticWait(long milisec) {
+	public static void staticWait(long milisec) {
 
 		try {
 			Thread.sleep(milisec);
