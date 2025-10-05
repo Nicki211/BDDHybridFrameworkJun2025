@@ -1,0 +1,11 @@
+com\qa\pages\LoginPage.class
+com\qa\util\ElementActions.class
+com\qa\pages\AddEmployeePage.class
+com\qa\util\CaptureScreenshot.class
+com\qa\pages\BuzzPage.class
+com\qa\util\ReadProperties.class
+com\qa\runner\Runner.class
+com\qa\base\Base.class
+com\qa\stepdefinations\BuzzCrudSTeps.class
+com\qa\stepdefinations\EmployeeCRUD.class
+com\qa\util\WaitMethods.class
